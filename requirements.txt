@@ -1,0 +1,13 @@
+opencv-python
+#super-gradients==3.1.0
+super-gradients
+flask
+numpy
+flask_cors
+PIL
+#numpy==1.24.0
+#torch==1.13.0
+
+
+#run project :
+#uvicorn main:app --reload --host 0.0.0.0 --port 8000
